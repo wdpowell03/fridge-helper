@@ -1,7 +1,7 @@
 # Fridge Helper
 
 Fridge Helper is a Single Page Application (SPA) that allows users to input ingredients and fetch recipes using the Spoonacular API. This project is built with React and Vite, and it uses Bulma for styling.
-It was my goal to complete an SPA in 2 hours or less, and this took about 1.5 hours (took a little too much time with Bulma). 
+It was my goal to complete an SPA in 2 hours or less, and this took about 1.5 hours (with a little too much time on Bulma). 
 I am working on velocity and familiarity with React, as well as intergating different API's into my projects.
 
 ## Features
